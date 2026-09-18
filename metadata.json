@@ -1,0 +1,6 @@
+{
+  "name": "PrismPM Model & Runtime Studio",
+  "description": "Verifiable digital asset settlement and escrow vault platform modeled from standards-based definitions via the UOR Framework's PrismPM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
